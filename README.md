@@ -11,9 +11,9 @@ The **Customer Retention Analysis** dashboard offers a high-level overview of cu
 ---
 
 ## 📸 Dashboard Preview
-C:\Users\mbkum\Pictures\Screenshots\overview.png
+"C:\Users\mbkum\Pictures\Screenshots\overview.png"
 
-C:\Users\mbkum\Pictures\Screenshots\subscription.png
+"C:\Users\mbkum\Pictures\Screenshots\subscription.png"
 
 ---
 
